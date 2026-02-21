@@ -11,10 +11,16 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
+By using a series of DFF a moving cirkle will apear on the LED display
+
 ## How to test
 
 Explain how to use your project
 
+No further action needed to turn on/off the mechanism. 
+
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+
+- seven segment display
